@@ -15,7 +15,7 @@ My goal is to build a strong foundation in Machine Learning by understanding the
 I have organized this repository into different folders, with each folder focusing on a specific Machine Learning concept.
 
 ### 01. Feature Engineering
-- [x] Learning and implementation
+- [ ] Learning and implementation
 
 ### 02. Exploratory Data Analysis (EDA)
 - [ ] Learning and implementation
